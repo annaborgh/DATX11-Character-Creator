@@ -17,9 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"obj_button_start","order":1,"path":"objects/obj_button_start/obj_button_start.yy",},
     {"name":"obj_button_quit","order":2,"path":"objects/obj_button_quit/obj_button_quit.yy",},
+    {"name":"obj_button_start","order":1,"path":"objects/obj_button_start/obj_button_start.yy",},
     {"name":"rm_main","order":1,"path":"rooms/rm_main/rm_main.yy",},
-    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"leftArrow","order":1,"path":"sprites/leftArrow/leftArrow.yy",},
+    {"name":"rightArrow","order":2,"path":"sprites/rightArrow/rightArrow.yy",},
   ],
 }
