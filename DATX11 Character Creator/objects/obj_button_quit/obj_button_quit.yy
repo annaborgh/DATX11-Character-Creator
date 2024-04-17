@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite2",
-    "path":"sprites/Sprite2/Sprite2.yy",
+    "name":"leftArrow",
+    "path":"sprites/leftArrow/leftArrow.yy",
   },
   "spriteMaskId":null,
   "visible":true,
