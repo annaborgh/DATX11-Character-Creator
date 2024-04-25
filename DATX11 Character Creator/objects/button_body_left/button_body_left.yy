@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"body",
+  "%Name":"button_body_left",
   "eventList":[],
   "managed":true,
-  "name":"body",
+  "name":"button_body_left",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"bodyframes",
-    "path":"sprites/bodyframes/bodyframes.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
