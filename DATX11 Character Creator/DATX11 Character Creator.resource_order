@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"body","order":16,"path":"objects/body/body.yy",},
     {"name":"obj_button_body_left","order":5,"path":"objects/obj_button_body_left/obj_button_body_left.yy",},
     {"name":"obj_button_body_right","order":6,"path":"objects/obj_button_body_right/obj_button_body_right.yy",},
     {"name":"obj_button_chest_left","order":7,"path":"objects/obj_button_chest_left/obj_button_chest_left.yy",},
@@ -32,11 +33,15 @@
     {"name":"obj_button_quit","order":2,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"obj_button_start","order":1,"path":"objects/obj_button_start/obj_button_start.yy",},
     {"name":"obj_txtbox_parent","order":15,"path":"objects/obj_txtbox_parent/obj_txtbox_parent.yy",},
+    {"name":"head_obj","order":17,"path":"objects/head_obj/head_obj.yy",},
     {"name":"rm_main","order":1,"path":"rooms/rm_main/rm_main.yy",},
     {"name":"bodys","order":3,"path":"sprites/bodys/bodys.yy",},
     {"name":"ccbg","order":1,"path":"sprites/ccbg/ccbg.yy",},
+    {"name":"chestF","order":7,"path":"sprites/chestF/chestF.yy",},
+    {"name":"chestM","order":11,"path":"sprites/chestM/chestM.yy",},
     {"name":"chestN","order":5,"path":"sprites/chestN/chestN.yy",},
     {"name":"genitals","order":4,"path":"sprites/genitals/genitals.yy",},
+    {"name":"head","order":12,"path":"sprites/head/head.yy",},
     {"name":"txtbox","order":2,"path":"sprites/txtbox/txtbox.yy",},
   ],
 }

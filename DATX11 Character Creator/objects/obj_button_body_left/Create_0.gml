@@ -8,6 +8,13 @@ global.clicked = id;
 
 activate_button = function() 
 {
+	if body.image_index > 0 {
+        body.image_index -= 1; // Move to the previous frame
+    }
+	else {
+		body.image_index = 2;
+	}
+	
 	/*if (instance_exists(txt_body))
 	{
 		current_txt = txt_body.box_text;
