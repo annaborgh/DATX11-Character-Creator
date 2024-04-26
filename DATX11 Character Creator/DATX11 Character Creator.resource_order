@@ -18,6 +18,9 @@
   ],
   "ResourceOrderSettings":[
     {"name":"body","order":16,"path":"objects/body/body.yy",},
+    {"name":"chestM_obj","order":19,"path":"objects/chestM_obj/chestM_obj.yy",},
+    {"name":"chestN_obj","order":18,"path":"objects/chestN_obj/chestN_obj.yy",},
+    {"name":"head_obj","order":17,"path":"objects/head_obj/head_obj.yy",},
     {"name":"obj_button_body_left","order":5,"path":"objects/obj_button_body_left/obj_button_body_left.yy",},
     {"name":"obj_button_body_right","order":6,"path":"objects/obj_button_body_right/obj_button_body_right.yy",},
     {"name":"obj_button_chest_left","order":7,"path":"objects/obj_button_chest_left/obj_button_chest_left.yy",},
@@ -33,7 +36,7 @@
     {"name":"obj_button_quit","order":2,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"obj_button_start","order":1,"path":"objects/obj_button_start/obj_button_start.yy",},
     {"name":"obj_txtbox_parent","order":15,"path":"objects/obj_txtbox_parent/obj_txtbox_parent.yy",},
-    {"name":"head_obj","order":17,"path":"objects/head_obj/head_obj.yy",},
+    {"name":"chestF_obj","order":20,"path":"objects/chestF_obj/chestF_obj.yy",},
     {"name":"rm_main","order":1,"path":"rooms/rm_main/rm_main.yy",},
     {"name":"bodys","order":3,"path":"sprites/bodys/bodys.yy",},
     {"name":"ccbg","order":1,"path":"sprites/ccbg/ccbg.yy",},

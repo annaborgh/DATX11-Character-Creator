@@ -6,16 +6,38 @@ event_inherited();
 if !variable_global_exists("clicked") global.clicked = noone;
 global.clicked = id;
 
+chestN_obj.visible = false;
+chestF_obj.visible = false;
+chestM_obj.visible = false;
+
 activate_button = function() 
 {
-	if body.image_index < 2 { // Assuming you have three frames (0, 1, 2)
-        body.image_index += 1; // Move to the next frame
+    if body.image_index = 0 { 
+        if chestN_obj.image_index > 0 {
+			chestN_obj.image_index -= 1;
+		}
+		else {
+			chestN_obj.image_index = 3;
+		}
     }
-	else {
-		body.image_index = 0;
+	if body.image_index = 1 {
+		if chestF_obj.image_index > 0 {
+			chestF_obj.image_index -= 1;
+		}
+		else {
+			chestN_obj.image_index = 3;
+		}
+	}
+	if body.image_index = 2 {
+		if chestM_obj.image_index > 0 {
+			chestM_obj.image_index -= 1;
+		}
+		else {
+			chestM_obj.image_index = 3;
+		}
 	}
 	
-	// Based on the updated body.image_index, associate the appropriate chest object
+	
     switch (body.image_index) {
         case 0:
             // Associate chestN_obj with body.image_index = 0
@@ -36,5 +58,4 @@ activate_button = function()
             chestM_obj.visible = true;
             break;
     }
-	
 }
