@@ -33,7 +33,10 @@
     {"name":"obj_button_start","order":1,"path":"objects/obj_button_start/obj_button_start.yy",},
     {"name":"obj_txtbox_parent","order":15,"path":"objects/obj_txtbox_parent/obj_txtbox_parent.yy",},
     {"name":"rm_main","order":1,"path":"rooms/rm_main/rm_main.yy",},
+    {"name":"bodys","order":3,"path":"sprites/bodys/bodys.yy",},
     {"name":"ccbg","order":1,"path":"sprites/ccbg/ccbg.yy",},
+    {"name":"chestN","order":5,"path":"sprites/chestN/chestN.yy",},
+    {"name":"genitals","order":4,"path":"sprites/genitals/genitals.yy",},
     {"name":"txtbox","order":2,"path":"sprites/txtbox/txtbox.yy",},
   ],
 }
