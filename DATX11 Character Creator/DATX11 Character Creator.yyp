@@ -36,8 +36,10 @@
   "resources":[
     {"id":{"name":"fnt_button","path":"fonts/fnt_button/fnt_button.yy",},},
     {"id":{"name":"body","path":"objects/body/body.yy",},},
+    {"id":{"name":"chestF_obj","path":"objects/chestF_obj/chestF_obj.yy",},},
     {"id":{"name":"chestM_obj","path":"objects/chestM_obj/chestM_obj.yy",},},
     {"id":{"name":"chestN_obj","path":"objects/chestN_obj/chestN_obj.yy",},},
+    {"id":{"name":"genital","path":"objects/genital/genital.yy",},},
     {"id":{"name":"head_obj","path":"objects/head_obj/head_obj.yy",},},
     {"id":{"name":"obj_button_body_left","path":"objects/obj_button_body_left/obj_button_body_left.yy",},},
     {"id":{"name":"obj_button_body_right","path":"objects/obj_button_body_right/obj_button_body_right.yy",},},
@@ -55,7 +57,6 @@
     {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},},
     {"id":{"name":"obj_button_start","path":"objects/obj_button_start/obj_button_start.yy",},},
     {"id":{"name":"obj_txtbox_parent","path":"objects/obj_txtbox_parent/obj_txtbox_parent.yy",},},
-    {"id":{"name":"chestF_obj","path":"objects/chestF_obj/chestF_obj.yy",},},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"id":{"name":"bodys","path":"sprites/bodys/bodys.yy",},},

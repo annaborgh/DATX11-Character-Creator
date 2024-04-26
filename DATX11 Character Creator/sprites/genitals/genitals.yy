@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"genitals",
   "bboxMode":0,
-  "bbox_bottom":39,
+  "bbox_bottom":1293,
   "bbox_left":0,
-  "bbox_right":32,
+  "bbox_right":1072,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1f7f190a-0bbd-4b8d-900b-863d8bf58b09","name":"1f7f190a-0bbd-4b8d-900b-863d8bf58b09","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"3e1ed102-0314-4ecf-a4f1-2cd62c7fd1f0","name":"3e1ed102-0314-4ecf-a4f1-2cd62c7fd1f0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"08b4fb4c-a101-4895-a405-679cbca28e3f","name":"08b4fb4c-a101-4895-a405-679cbca28e3f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"17026bd6-a58a-40cb-926b-ee6fb244d716","name":"17026bd6-a58a-40cb-926b-ee6fb244d716","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"1fc617c3-6170-418f-8b57-d9f63392f641","name":"1fc617c3-6170-418f-8b57-d9f63392f641","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"0f8fce39-967a-4939-a10b-3d2bdbca91ff","name":"0f8fce39-967a-4939-a10b-3d2bdbca91ff","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":2048,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"d69f7688-9415-4256-b322-4c36d506fae9","blendMode":0,"displayName":"default","isLocked":false,"name":"d69f7688-9415-4256-b322-4c36d506fae9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"665e39ac-8c52-413f-8527-c0fc62a5e512","blendMode":0,"displayName":"default","isLocked":false,"name":"665e39ac-8c52-413f-8527-c0fc62a5e512","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"genitals",
   "nineSlice":null,
@@ -71,14 +71,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1f7f190a-0bbd-4b8d-900b-863d8bf58b09","path":"sprites/genitals/genitals.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b2f62319-b151-4379-9801-2c67d5d55ced","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"17026bd6-a58a-40cb-926b-ee6fb244d716","path":"sprites/genitals/genitals.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"4c09db0f-fbb5-49ab-9cf0-d59b1b54919d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3e1ed102-0314-4ecf-a4f1-2cd62c7fd1f0","path":"sprites/genitals/genitals.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"8c21cab1-d864-4640-897a-c3b9a2500845","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1fc617c3-6170-418f-8b57-d9f63392f641","path":"sprites/genitals/genitals.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"63b28eda-4c54-4579-b00f-288ab2232b3d","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"08b4fb4c-a101-4895-a405-679cbca28e3f","path":"sprites/genitals/genitals.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f2724325-2237-46ee-877d-b9cf122393b5","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0f8fce39-967a-4939-a10b-3d2bdbca91ff","path":"sprites/genitals/genitals.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"cf254857-933a-4940-8ee4-52d09bee9c31","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -94,5 +94,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":2048,
 }
