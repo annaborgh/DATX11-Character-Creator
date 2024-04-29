@@ -11,6 +11,10 @@ activate_button = function(){
 		shirtN_obj.visible = false;
 		shirtM_obj.visible = false;
 		shirtF_obj.visible = false;
+		
+		pantN_obj.visible = false;
+		pantF_obj.visible = false;
+		pantM_obj.visible = false;
 	}
 	else{
 		checkbox_obj.sprite_index = checkbox;
@@ -23,18 +27,30 @@ activate_button = function(){
             shirtN_obj.visible = true;
             shirtF_obj.visible = false;
             shirtM_obj.visible = false;
+			
+			pantN_obj.visible = true;
+			pantF_obj.visible = false;
+			pantM_obj.visible = false;
             break;
         case 1:
             // Associate chestF_obj with body.image_index = 1
             shirtN_obj.visible = false;
             shirtF_obj.visible = true;
             shirtM_obj.visible = false;
+			
+			pantN_obj.visible = false;
+			pantF_obj.visible = true;
+			pantM_obj.visible = false;
             break;
         case 2:
             // Associate chestM_obj with body.image_index = 2
             shirtN_obj.visible = false;
             shirtF_obj.visible = false;
             shirtM_obj.visible = true;
+			
+			pantN_obj.visible = false;
+			pantF_obj.visible = false;
+			pantM_obj.visible = true;
             break;
     }
 		
