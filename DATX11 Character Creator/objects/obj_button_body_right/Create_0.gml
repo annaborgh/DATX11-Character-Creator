@@ -10,6 +10,7 @@ activate_button = function()
 {
 	if body.image_index < 2 { // Assuming you have three frames (0, 1, 2)
         body.image_index += 1; // Move to the next frame
+	
     }
 	else {
 		body.image_index = 0;
