@@ -12,8 +12,10 @@ activate_button = function()
         if chestN_obj.image_index < 3 {
 			chestN_obj.image_index += 1;
 			
-	
-		shirtN_obj.image_index = chestN_obj.image_index;
+			shirtN_obj.image_index = chestN_obj.image_index;
+			if chestN_obj.image_index == 3{
+				shirtN_obj.image_index = 2;
+			}
 		
 		}
 		else {
@@ -26,6 +28,10 @@ activate_button = function()
 			chestF_obj.image_index += 1;
 			
 			shirtF_obj.image_index = chestF_obj.image_index;
+			if chestF_obj.image_index == 3{
+				shirtF_obj.image_index = 2;
+			}
+			
 		}
 		else {
 			chestF_obj.image_index = 0;
@@ -37,15 +43,16 @@ activate_button = function()
 			chestM_obj.image_index += 1;
 			
 			shirtM_obj.image_index = chestM_obj.image_index;
+			if chestM_obj.image_index == 3{
+				shirtM_obj.image_index = 2;
+			}
+			
 		}
 		else {
 			chestM_obj.image_index = 0;
 			shirtM_obj.image_index = 0;
 		}
 	}
-	
-
-	
 	
 	
     // Based on the updated body.image_index, associate the appropriate chest object

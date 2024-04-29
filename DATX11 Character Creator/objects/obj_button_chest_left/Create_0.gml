@@ -26,8 +26,8 @@ activate_button = function(){
 			shirtF_obj.image_index = chestF_obj.image_index;
 		}
 		else {
-			chestN_obj.image_index = 3;
-			shirtN_obj.image_index = 3;
+			chestF_obj.image_index = 3;
+			shirtF_obj.image_index = 3;
 		}
 	}
 	if body.image_index = 2 {
