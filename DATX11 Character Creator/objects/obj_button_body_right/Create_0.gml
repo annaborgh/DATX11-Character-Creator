@@ -22,18 +22,30 @@ activate_button = function()
             chestN_obj.visible = true;
             chestF_obj.visible = false;
             chestM_obj.visible = false;
+			
+			shirtN_obj.visible = true;
+            shirtF_obj.visible = false;
+            shirtM_obj.visible = false;
             break;
         case 1:
             // Associate chestF_obj with body.image_index = 1
             chestN_obj.visible = false;
             chestF_obj.visible = true;
             chestM_obj.visible = false;
+			
+			shirtN_obj.visible = false;
+            shirtF_obj.visible = true;
+            shirtM_obj.visible = false;
             break;
         case 2:
             // Associate chestM_obj with body.image_index = 2
             chestN_obj.visible = false;
             chestF_obj.visible = false;
             chestM_obj.visible = true;
+			
+			shirtN_obj.visible = false;
+            shirtF_obj.visible = false;
+            shirtM_obj.visible = true;
             break;
     }
 	

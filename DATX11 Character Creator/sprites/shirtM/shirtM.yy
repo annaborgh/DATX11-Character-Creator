@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"shirtM",
   "bboxMode":0,
-  "bbox_bottom":1177,
+  "bbox_bottom":1169,
   "bbox_left":856,
   "bbox_right":1191,
   "bbox_top":769,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"ff5d2553-008e-47f9-aa94-f99e2917d50b","name":"ff5d2553-008e-47f9-aa94-f99e2917d50b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"57f241b0-3857-4302-be7c-8014f8dba4fd","name":"57f241b0-3857-4302-be7c-8014f8dba4fd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"2653d518-0761-49a7-b5ff-ce3dd8616ba4","name":"2653d518-0761-49a7-b5ff-ce3dd8616ba4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"a50653cc-6534-4f82-8b23-9594958306de","name":"a50653cc-6534-4f82-8b23-9594958306de","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"638a7272-8f31-491e-84d1-1c47715c19aa","name":"638a7272-8f31-491e-84d1-1c47715c19aa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
@@ -71,11 +71,11 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ff5d2553-008e-47f9-aa94-f99e2917d50b","path":"sprites/shirtM/shirtM.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f52b6c95-9dcf-4012-8e9f-a3efbf76a34e","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2653d518-0761-49a7-b5ff-ce3dd8616ba4","path":"sprites/shirtM/shirtM.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3de12bb2-d4aa-4c5a-9299-223c64483634","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"57f241b0-3857-4302-be7c-8014f8dba4fd","path":"sprites/shirtM/shirtM.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"27f171a1-23e8-4812-8d07-3e62948d4863","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a50653cc-6534-4f82-8b23-9594958306de","path":"sprites/shirtM/shirtM.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"10322256-3f5b-4719-afcb-226a5665b9fe","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"638a7272-8f31-491e-84d1-1c47715c19aa","path":"sprites/shirtM/shirtM.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1767d73f-2faa-4cce-b359-749b3bebe434","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
