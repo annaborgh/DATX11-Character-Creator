@@ -56,6 +56,8 @@ activate_button = function(){
 			shirtN_obj.visible = true;
             shirtF_obj.visible = false;
             shirtM_obj.visible = false;
+			
+			pronouncePin_obj.visible = true;
 			//}
             break;
         case 1:
@@ -69,6 +71,8 @@ activate_button = function(){
 			shirtN_obj.visible = false;
             shirtF_obj.visible = true;
             shirtM_obj.visible = false;
+			
+			pronouncePin_obj.visible = true;
 			//}
             break;
         case 2:
@@ -82,6 +86,8 @@ activate_button = function(){
 			shirtN_obj.visible = false;
             shirtF_obj.visible = false;
             shirtM_obj.visible = true;
+			
+			pronouncePin_obj.visible = true;
 			//}
             break;
     }

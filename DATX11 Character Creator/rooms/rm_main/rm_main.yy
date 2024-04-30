@@ -35,6 +35,7 @@
     {"name":"inst_360F5935","path":"rooms/rm_main/rm_main.yy",},
     {"name":"inst_78964622","path":"rooms/rm_main/rm_main.yy",},
     {"name":"inst_2EB45028","path":"rooms/rm_main/rm_main.yy",},
+    {"name":"inst_545A5FEB","path":"rooms/rm_main/rm_main.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -68,6 +69,7 @@
         {"$GMRInstance":"","%Name":"inst_1B49322F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1B49322F","objectId":{"name":"shirtF_obj","path":"objects/shirtF_obj/shirtF_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":-256.0,"y":0.0,},
         {"$GMRInstance":"","%Name":"inst_360F5935","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_360F5935","objectId":{"name":"lugg_obj","path":"objects/lugg_obj/lugg_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":-256.0,"y":0.0,},
         {"$GMRInstance":"","%Name":"inst_2EB45028","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2EB45028","objectId":{"name":"beard_obj","path":"objects/beard_obj/beard_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":-256.0,"y":0.0,},
+        {"$GMRInstance":"","%Name":"inst_545A5FEB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_545A5FEB","objectId":{"name":"pronouncePin_obj","path":"objects/pronouncePin_obj/pronouncePin_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":-256.0,"y":-12.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"ccbg","path":"sprites/ccbg/ccbg.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

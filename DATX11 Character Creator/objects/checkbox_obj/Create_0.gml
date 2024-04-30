@@ -15,6 +15,8 @@ activate_button = function(){
 		pantN_obj.visible = false;
 		pantF_obj.visible = false;
 		pantM_obj.visible = false;
+		
+		pronouncePin_obj.visible = false;
 	}
 	else{
 		checkbox_obj.sprite_index = checkbox;
@@ -31,6 +33,8 @@ activate_button = function(){
 			pantN_obj.visible = true;
 			pantF_obj.visible = false;
 			pantM_obj.visible = false;
+			
+			pronouncePin_obj.visible = true;
             break;
         case 1:
             // Associate chestF_obj with body.image_index = 1
@@ -41,6 +45,8 @@ activate_button = function(){
 			pantN_obj.visible = false;
 			pantF_obj.visible = true;
 			pantM_obj.visible = false;
+			
+			pronouncePin_obj.visible = true;
             break;
         case 2:
             // Associate chestM_obj with body.image_index = 2
@@ -51,6 +57,8 @@ activate_button = function(){
 			pantN_obj.visible = false;
 			pantF_obj.visible = false;
 			pantM_obj.visible = true;
+			
+			pronouncePin_obj.visible = true;
             break;
     }
 		
