@@ -63,12 +63,12 @@ activate_button = function()
             chestF_obj.visible = false;
             chestM_obj.visible = false;
 			
-			if checkbox_obj.image_index == checkbox{
+			//if checkbox_obj.image_index == checkbox{
 			
 			shirtN_obj.visible = true;
             shirtF_obj.visible = false;
             shirtM_obj.visible = false;
-			}
+			//}
             break;
         case 1:
             // Associate chestF_obj with body.image_index = 1
@@ -76,12 +76,12 @@ activate_button = function()
             chestF_obj.visible = true;
             chestM_obj.visible = false;
 			
-			if checkbox_obj.image_index == checkbox{
+			//if checkbox_obj.image_index == checkbox{
 			
 			shirtN_obj.visible = false;
             shirtF_obj.visible = true;
             shirtM_obj.visible = false;
-			}
+			//}
             break;
         case 2:
             // Associate chestM_obj with body.image_index = 2
@@ -89,12 +89,12 @@ activate_button = function()
             chestF_obj.visible = false;
             chestM_obj.visible = true;
 			
-			if checkbox_obj.image_index == checkbox{
+			//if checkbox_obj.image_index == checkbox{
 			
 			shirtN_obj.visible = false;
             shirtF_obj.visible = false;
             shirtM_obj.visible = true;
-			}
+			//}
             break;
     }
 }
