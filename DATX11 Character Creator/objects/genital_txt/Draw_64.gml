@@ -8,7 +8,7 @@ draw_set_valign(fa_middle);
 draw_set_color(c_black);
 
 // Get the current frame index of pronouncePin_obj
-var frame_index = genitals.image_index;
+var frame_index = genital.image_index;
 
 // Set box_text based on frame_index
 switch (frame_index) {
